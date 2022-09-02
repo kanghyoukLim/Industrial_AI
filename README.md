@@ -16,7 +16,7 @@
 
 <p align="center">
   
-<img src="./Images/our.JPG" width="640" height="300"  >
+<img src="./Images/our.jpg" width="640" height="300"  >
 
 </p>
 </br>
