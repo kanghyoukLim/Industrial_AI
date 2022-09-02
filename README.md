@@ -32,4 +32,4 @@
 
 ### 재학생 포트폴리오 현황
 
-- `2022-9` [임강혁](GitHub link): 
+- `2022-9` [임강혁](GitHub link): https://github.com/kanghyoukLim/Industrial_AI
