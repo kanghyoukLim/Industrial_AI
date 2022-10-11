@@ -23,8 +23,8 @@
 
 ### 수행 프로젝트
 
-- `2022-9` [어프렌티스 프로젝트](https://github.com/Bessesian/industrial-AI/tree/master/projects/어프렌티스-프로젝트): 문제해결방법론 교육 및 프로젝트 준비
-- `2022-9` [산업 빅데이터 분석 실제](https://github.com/Bessesian/industrial-AI/tree/master/projects/산업-빅데이터분석-실제): 파이썬 패키지를 사용한 빅데이터 분석 및 시각화 기술 학습
+- `2022-9` [어프렌티스 프로젝트](https://github.com/kanghyoukLim/industrial-AI/어프렌티스-프로젝트): 문제해결방법론 교육 및 프로젝트 준비
+- `2022-9` [산업 빅데이터 분석 실제](https://github.com/kanghyoukLim/industrial-AI/산업-빅데이터분석-실제): 파이썬 패키지를 사용한 빅데이터 분석 및 시각화 기술 학습
 
 ### GitHub 교육
 
